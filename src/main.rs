@@ -1,7 +1,7 @@
-use programming::_0000;
+use programming::_0002;
 
 pub mod programming;
 
 fn main() {
-    _0000::main();
+    _0002::main();
 }
